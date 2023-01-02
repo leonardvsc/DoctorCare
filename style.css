@@ -307,10 +307,6 @@ body.menu-expanded button path {
 
 /* SERVICES ==========================*/
 
-section#services {
-  padding-top: 0;
-}
-
 #services header h2 {
   margin-bottom: 6rem;
 }
